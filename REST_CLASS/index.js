@@ -16,18 +16,18 @@ app.use(express.static(path.join(__dirname, "public")));
 let posts = [
     {
         id: uuidv4(),
-        username: "Andi",
-        content: "I love Andi",
+        username: "Coder",
+        content: "I love Coding",
     },
     {
         id: uuidv4(),
-        username: "Bandi",
-        content: "I love Bandi",
+        username: "Sleeper",
+        content: "I love Sleeping",
     },
     {
         id: uuidv4(),
-        username: "Randi",
-        content: "I love Randi",
+        username: "Rider",
+        content: "I love Riding",
     },
 ];
 
