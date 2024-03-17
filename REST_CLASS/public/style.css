@@ -1,0 +1,19 @@
+h1 {
+    color: brown;
+}
+h2 {
+    color: brown;
+}
+
+.post {
+    background-color: blanchedalmond;
+}
+
+.user {
+    font-style: italic;
+}
+
+.newPost {
+    color: brown;
+    font-weight: 700;
+}
